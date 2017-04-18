@@ -4,73 +4,73 @@
 		<Name>Stephan Roch</Name>
 		<Preferred_Email>roch@seattleu.edu</Preferred_Email>
 		<Phone_Number>5424131214</Phone_Number>
-		<Takingclass>IS5315</Taking_class>
+		<Takingclass>IS5315</Takingclass>
 		<Status>Full time</Status>
-		<Student_ID>42112323<Student_ID>
+		<Student_ID>42112323</Student_ID>
 	</CD>
 	<CD>
 		<Name>Katrina Phi</Name>
 		<Preferred_Email>phi@seattleu.edu</Preferred_Email>
 		<Phone_Number>2632235858</Phone_Number>
-		<Takingclass>IS5310</Taking_class>
+		<Takingclass>IS5310</Takingclass>
 		<Status>part time</Status>
-		<Student_ID>32223421<Student_ID>
+		<Student_ID>32223421</Student_ID>
 	</CD>
 	<CD>
 		<Name>Fox Christ</Name>
 		<Preferred_Email>fox@seattleu.edu</Preferred_Email>
 		<Phone_Number>7872243233</Phone_Number>
-		<Takingclass>Acct 2100</Taking_class>
+		<Takingclass>Acct 2100</Takingclass>
 		<Status>Full time</Status>
-		<Student_ID>87424523<Student_ID>
+		<Student_ID>87424523</Student_ID>
 	</CD>
 	<CD>
 		<Name>Wenting yuan</Name>
 		<Preferred_Email>yuan@seattleu.edu</Preferred_Email>
 		<Phone_Number>6144243232</Phone_Number>
-		<Takingclass>FINC 5000</Taking_class>
+		<Takingclass>FINC 5000</Takingclass>
 		<Status>Full time</Status>
-		<Student_ID>85726245<Student_ID>
+		<Student_ID>85726245</Student_ID>
 	</CD>
 	<CD>
 		<Name>Zichen Tia</Name>
 		<Preferred_Email>tia@seattleu.edu</Preferred_Email>
 		<Phone_Number>4255052222</Phone_Number>
-		<Takingclass>FINC5500</Taking_class>
+		<Takingclass>FINC5500</Takingclass>
 		<Status>Full time</Status>
-		<Student_ID>44234566<Student_ID>
+		<Student_ID>44234566</Student_ID>
 	</CD>
 	<CD>
 		<Name>Zixuan lin</Name>
 		<Preferred_Email>lin@seattleu.edu</Preferred_Email>
 		<Phone_Number>4324441314</Phone_Number>
-		<Takingclass>ACCT5015</Taking_class>
+		<Takingclass>ACCT5015</Takingclass>
 		<Status>Part time</Status>
-		<Student_ID>41235666<Student_ID>
+		<Student_ID>41235666</Student_ID>
 	</CD>
 	<CD>
 		<Name>Yishan Zhang</Name>
 		<Preferred_Email>zhang1@seattleu.edu</Preferred_Email>
 		<Phone_Number>2064582243</Phone_Number>
-		<Takingclass>CSC143</Taking_class>
+		<Takingclass>CSC143</Takingclass>
 		<Status>Full time</Status>
-		<Student_ID>78327184<Student_ID>
+		<Student_ID>78327184</Student_ID>
 	</CD>
 	<CD>
 		<Name>Hong Wang</Name>
 		<Preferred_Email>honghong@seattleu.edu</Preferred_Email>
 		<Phone_Number>2063320001</Phone_Number>
-		<Takingclass>CSC142</Taking_class>
+		<Takingclass>CSC142</Takingclass>
 		<Status>part time</Status>
-		<Student_ID>42112323<Student_ID>
+		<Student_ID>42112323</Student_ID>
 	</CD>
 	<CD>
 		<Name>Sihui Zhao</Name>
 		<Preferred_Email>zhaos@seattleu.edu</Preferred_Email>
 		<Phone_Number>4255058421</Phone_Number>
-		<Takingclass>IS5315</Taking_class>
+		<Takingclass>IS5315</Takingclass>
 		<Status>Part time</Status>
-		<Student_ID>83920456<Student_ID>
+		<Student_ID>83920456</Student_ID>
 	</CD>
 	
 </CATALOG>
