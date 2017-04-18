@@ -11,21 +11,21 @@
         <thead>
             <tr>
                 <th>Name</th>
-                <th>Born Year</th>
-                <th>Born Month</th>
+                <th>Birth Year</th>
+                <th>Birth Month</th>
                 <th>Country</th>
                 <th>GPA</th>
-                <th>Home Location</th>
+                <th>City</th>
             </tr>
         </thead>
         <tfoot>
             <tr>
                 <th>Name</th>
-                <th>Born Year</th>
-                <th>Born Month</th>
+                <th>Birth Year</th>
+                <th>Birth Month</th>
                 <th>Country</th>
                 <th>GPA</th>
-                <th>Home Location</th>
+                <th>City</th>
             </tr>
         </tfoot>
     </table>
@@ -40,12 +40,12 @@
         $('#empTable').dataTable({
             "ajax": "empdata.js",
             "columns": [
-                {"data": "name"},
-                {"data": "designation"},
-                {"data": "office"},
-                {"data": "extension"},
-                {"data": "joining_date"},
-                {"data": "salary"}
+                {"data": “name”},
+                {"data": “birth_year”},
+                {"data": “birth_month”},
+                {"data": “country”},
+                {"data": “GPA”},
+                {"data": “city”}
             ]
         });   
     });
