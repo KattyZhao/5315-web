@@ -71,7 +71,6 @@
       "country": "US",
       "GPA": "3.8",
       "city": "Mercer Island"
-    },
-    
+    }
   ]
 }
