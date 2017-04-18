@@ -18,12 +18,12 @@
             success: function(xml) {  
              $(xml).find('CD').each(function(){  
               t.row.add( [
-                $(this).find('ARTIST').text(),
-                $(this).find('TITLE').text(),
-                $(this).find('YEAR').text(),
-                $(this).find('PRICE').text(),
-                $(this).find('COMPANY').text(),
-                $(this).find('COUNTRY').text()
+                $(this).find(‘Name’).text(),
+                $(this).find(‘Preferred’).text(),
+                $(this).find(‘Phone number’).text(),
+                $(this).find(‘Taking class’).text(),
+                $(this).find(‘Status’).text(),
+                $(this).find(‘Student ID’).text()
               ] ).draw( false );
              });
             }
